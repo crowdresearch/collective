@@ -1,6 +1,6 @@
 # Operational Guide: Stanford Crowd Research Collective
 ## High-level goals
-Generally, the Crowd Research Collective makes decisions through its [regular weekly consensus meeting or quarterly strategic review](https://github.com/crowdresearch/collective/governance/blob/masterprocess.md). However, this operational guide specifies specific cases where a consensus has been established and action can be taken immediately.
+Generally, the Crowd Research Collective makes decisions through its [regular weekly consensus meeting or quarterly strategic review](https://github.com/crowdresearch/collective/blob/master/governance/process.md). However, this operational guide specifies specific cases where a consensus has been established and action can be taken immediately.
 ## Operational group membership
 Each of the behaviors below can be taken without requiring a proposal or consensus from the rest of the group, as part of regular operational duties. These privileges are assigned to members who have demonstrated ability and responsibility to do so. To gain these privileges, the person must be nominated by a member of the Collective including a paragraph describing the individual's qualifications, and then a one-week vote in a proposal is open to all members of the collective. If the individual is not performing their duties appropriately i.e. acting in bad faith, these privileges may be revoked through a vote in the weekly proposal process, open to all members of the Collective. Being inactive is not considered grounds for removal.
 
