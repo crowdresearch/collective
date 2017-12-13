@@ -11,4 +11,4 @@
 
 <!--- Do not delete this section --->
 ---
-**Use comments to share your response** or use emoji 👍 to show your support. **To officially join in**, comment `I will help.` **To break consensus**, comment using [this template](https://gist.githubusercontent.com/markwhiting/ea8875602acd11e79002763735701503/raw/269916fe3c151cee51726f4f7f0488bec3010836/break_consensus.md). To find out more about this process, read the [how-to](https://gist.github.com/markwhiting/1fc8529fd074c12231c553936beec668).
+**Use comments to share your response** or use emoji 👍 to show your support. **To officially join in**, comment `I will help.` **To break consensus**, comment using [this template](https://raw.githubusercontent.com/crowdresearch/collective/master/breaking_consensus). To find out more about this process, read the [how-to](https://github.com/crowdresearch/collective/blob/master/governance/how-to.md).
