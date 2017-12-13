@@ -1,5 +1,5 @@
 # Operational group membership: Stanford Crowd Research Collective
-This document details the members of each operational group. The details of what this means, and how to join these groups, is in the [operational guide](https://github.com/crowdresearch/collective/governance/blob/master/operations.md).
+This document details the members of each operational group. The details of what this means, and how to join these groups, is in the [operational guide](https://github.com/crowdresearch/collective/blob/master/governance/operations.md).
 
 ## Operational groups
 A list of groups and members follows.
