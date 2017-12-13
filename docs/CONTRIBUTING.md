@@ -10,14 +10,10 @@
 4. When complete, click Submit new issue in the bottom right.
 
 ## Supporting a proposal
-**If you want to work on a proposal**, click the smiley face icon at the top, right of the proposal and select the hooray emoji (the one with confetti). This will record that you are interested in working on this proposal if it passes consensus.
-
-**If you are interested in helping to refine a proposal**, comment in the box at the bottom of the proposal page.
-
-**If you only want to express support for a proposal**, add a comment: `I will help.`
+**If you want to work on a proposal**, add yourself as an assignee to the proposal. This will record that you are interested in working on this proposal if it passes consensus.
 
 ## Breaking consensus on a proposal
-1. Copy and paste the [template text](https://github.com/crowdresearch/collective/blob/master/breaking_consensus) into the comment box at the bottom of the proposal page.
+1. Copy and paste the [template text](https://github.com/crowdresearch/collective/blob/master/docs/breaking_consensus) into the comment box at the bottom of the proposal page.
 2. Follow the directions in the template.
 
 **Note:** You can’t break consensus without filling out this template.
@@ -25,7 +21,7 @@
 ## Reestablishing consensus on a proposal
 1. Click on the date information next to your username on your consensus breaking comment.
 2. Copy the URL in the browser window. This URL will link directly to your comment.
-3. Make a new comment at the bottom of the proposal using [this template](https://github.com/crowdresearch/collective/blob/master/resolving_broken_consensus).
+3. Make a new comment at the bottom of the proposal using [this template](https://github.com/crowdresearch/collective/blob/master/docs/resolving_broken_consensus).
 4. Follow the directions in the template.
 
 ## Completing a proposal
@@ -35,7 +31,7 @@ Once all the parts of the proposal have been completed:
 
 ## Special proposals
 ### Strategic planning
-To indicate that a proposal is to be treated as part of the strategic planning process,
+To indicate that a proposal is to be treated as part of the strategic planning process add it to the `strategy` milestone.
 
 ### Group membership
 In order to propose a new member for one of the operational or quality review groups create a proposal containing a paragraph describing the qualifications of the member you are nominating. Mention the member by their github handle (e.g. @markwhiting) in the text and in the title of the proposal.
