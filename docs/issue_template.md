@@ -5,7 +5,7 @@
 - **If this is associated with a strategic milestone** add the `strategy` milestone.
 2. Add a title in the field above that concisely summarizes the problem.
 
-### My proposal
+## My proposal
 3. If you have a solution to this problem and you will implement it, continue, otherwise remove the **my proposal** section.
 4. Add yourself as an assignee to this proposal.
 5. Replace this text with a clear statement of the solution you propose to implement, including any relevant supporting files. It can strengthen your proposal to include *pros* and *cons* and your thoughts about the *implications* (short and long term) of it being executed.
