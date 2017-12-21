@@ -1,4 +1,4 @@
-1. Add an proposal title above that concisely summarizes the problem or suggestion.
+1. Add a proposal title above that concisely summarizes the problem or suggestion.
 
 ## Problem
 2. Replace this text with a clear statement of the problem that needs to be solved. If feasible, include specific evidence or examples (e.g., screen shots, data) in support of the understanding of the problem. If this is a bug, report it in the Daemo repository instead of here: https://github.com/crowdresearch/daemo/issues/new
