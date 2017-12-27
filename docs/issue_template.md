@@ -12,8 +12,10 @@ Add a proposal title above that concisely summarizes the problem or suggestion. 
 ### Implications
 5. Replace this text with short-term (and, if relevant, long-term) implications of executing this proposal. If it is a strategy proposl, long-term implications are required.
 
-## Contact
-8. Add your Slack username, and if appropriate, a Slack channel where discussion is taking place.
+## Person or People Who Added the Proposal to GitHub
+6. Add Slack usernames of the people posting this proposal on behalf of the Collective.
+
+_These names don't indicate that the person came up with this idea, unless explicitly mentioned._
 
 <!--- Do not delete this section --->
 ---
