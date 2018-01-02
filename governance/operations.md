@@ -19,6 +19,10 @@ Workers, requesters, and others send inquiries to us through the forum and our e
 If the request was sent via email, replies should be sent on behalf of "Daemo Team" and should cc support@daemo.org. If the request was made on the forum, replies should be made as individual members with an "admin" flag on forum.daemo.org.
 ### Fixing bugs
 If there is a live bug on the site, or the live site is otherwise not matching the Collective's intention as decided through the proposal process, Pull Requests (PRs) fixing the issue can be immediately merged and deployed by anyone with commit access to the repository. Likewise, if the site is down, this group can act to bring it back up.
+
+### Slack admin
+The slack administrator group has admin rights over our group Slack instance. They are able to add and remove members, approve new apps, and perform any relevant cleanup duty. They also ensure that we pay Slack on time.
+
 ## Adding new categories of operational behaviors
 A proposal through the [usual proposal process](https://github.com/crowdresearch/collective/blob/master/governance/process.md) can add a new category of operational behavior. For example, a proposal might be "Create a category of operational behavior for responding to media inquiries".
 ## Quality review groups
