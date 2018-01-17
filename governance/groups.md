@@ -16,6 +16,8 @@ _Deliverables_: graphic re-draft, written feedback to members submitting graphic
 
 _Collaborative Tools used by members_: Figma, Slack, Github...
 
+_Members_
+
 #### User Experience Group
 The User Experience group within the Design Quality Review Team focus on the Human Behavior aspect of the platform. They define the work models and the general UI specifications. As an outcome of their emphasis on human behavior, this team maintains relevant scenarios, heuristic evaluations, personas, interaction models and wire frames to communicate with stakeholders. In Daemo, these presentations are often email exchanges or REDDIT forum presentations with workers in their preferred forums. This team uses statistics and appropriate research methods to inform and shape the the platform to meet the needs of its workers, requesters, and researchers. In interactions with the research community, this team reviews proposals and makes contact with workers and requesters upon their behalf. This team will be maintaining a major scenario library considering 3 competitive platforms on the Crowd Research Wiki to demonstrate the differences between them.
 
@@ -23,12 +25,16 @@ _Deliverables_: work interaction models, research method review and written feed
 
 _Collaborative Tools_: Figma, Slack, Google Drive, CoLab, UX component library (behavior patterns of users)...
 
+_Members_
+
 #### User Interface Group
 The User Interface Group focuses on the pages and screens of the Daemo Platform. They will conduct research to optimize the pages of the platform to match the work priorities for the users as well as designing the information path to assist users to achieve their tasks successfully. Results for platform studies are posted with the appropriate Github Issue thread with the research and analysis methods and final results from the related study. The Ux Group will inform the UI group with validated scenarios, whereas the task flows are their responsibility. They maintain the current style guide and the site's design language. With assistance from the Ux group, they will suggest further notifications and alerts to support users on the platform. This team will maintain a design pattern library from 3 competitive platforms on the Crowd Research Wiki.
 
 _Deliverables_: mock ups, design patterns, template layouts, internal reports and studies, provide written feedback to members on related proposals...
 
 _Collaborative Tools_: Figma, Slack, Google Drive, CoLab, UI component library...
+
+_Members_
 
 ### Engineering
 #### Front End Engineering Group
