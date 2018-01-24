@@ -7,32 +7,48 @@ A list of groups and members follows.
 ### Fix live bugs
 ### Committing changes to production server
 ## Quality review groups
-A list of groups and members follows.
+A list of groups and members follows. The wording of this text will be subject to revision as necessary as determined by the members of the teams upon introduction into the governance documents.
 ### Design
 #### Graphic Group
-Graphic creates and iterates the assets and collateral that establish the identity of Daemo across media and technology. To members of the community, the members of the quality review team that are identified as members of the graphic group become the mentors and teachers of the community about the Material Guidelines and that presentation materials adhere to Daemo’s style guide. They help to guide members in the development of graphic assets for conference presentations, submitted publications, and the software visual look across phones, laptops, desktops, and other media devices identified by the User Experience team. These members are responsible for maintenance and submission of the graphics to github, as well as maintaining a components library of icons, logos, etc. from 3 competitive platforms on the Crowd Research Wiki.
 
-_Deliverables_: graphic re-draft, written feedback to members submitting graphical changes to the team, wire frames and mock ups across media and devices, written validation of developed media to the Daemo standard and other relevant standards required by ... Pixel Perfect Daemo Resources.
+To members of the community, the members of the quality review team that are identified as members of the graphic group become the mentors and teachers of the community about the Material Guidelines and that presentation materials adhere to Daemo’s style guide. They help to guide members in the development of graphic assets for conference presentations, submitted publications, and the software visual look across phones, laptops, desktops, and other media devices identified by the User Experience team. These members are responsible for maintenance and submission of the graphics to githubThese members are responsible for approval and merge of final submission of the high fidelity graphics in the master branch of github, as well as maintaining a components library of icons, logos, etc. from 3 competitive platforms on the Crowd Research Wiki.
 
-_Collaborative Tools used by members_: Figma, Slack, Github...
+_Deliverables able to submitted to review for the team_: graphic re-drafts, detailed wire frames and mock ups across media and devices,
 
+_Deliverables submitted from the review team to submitters_: written feedback to members submitting graphical changes to the team, written validation of developed media to the Daemo standard and other relevant standards required by ... [to be added in future iterations]
+
+_Collaborative Tools used by members_: Figma, Slack, Github... [to be added in future iterations]
 _Members_
 
 #### User Experience Group
-The User Experience group within the Design Quality Review Team focus on the Human Behavior aspect of the platform. They define the work models and the general UI specifications. As an outcome of their emphasis on human behavior, this team maintains relevant scenarios, heuristic evaluations, personas, interaction models and wire frames to communicate with stakeholders. In Daemo, these presentations are often email exchanges or REDDIT forum presentations with workers in their preferred forums. This team uses statistics and appropriate research methods to inform and shape the the platform to meet the needs of its workers, requesters, and researchers. In interactions with the research community, this team reviews proposals and makes contact with workers and requesters upon their behalf. This team will be maintaining a major scenario library considering 3 competitive platforms on the Crowd Research Wiki to demonstrate the differences between them.
 
-_Deliverables_: work interaction models, research method review and written feedback, experimental analysis review and written feedback, click through prototypes, questionnaires, academic article suggestions, support with the community as needed, mentoring as needed, priority alignment with the larger quality team, user requirement specifications, user cases and scenario library
+##### General
+The User Experience group within the Design Quality Review Team focus on the Human Behavior aspect of the platform. They host Daemo work models and the general user requirements specifications.
+##### Community Competitiveness
+As an outcome of their emphasis on human behavior, this team maintains relevant deliverables within a shared and private to the Quality Review Group Google Drive folder (This is considered competitive research for the platform and should not be readily public), of which access to this folder will be allowed during service. _The Ux team will also be responsible for maintenance and reporting of user competitive performance benchmarks between competitors such as predicted TLX workload and complaints review from TurkOpticon. From these reports, they will suggest to the community studies for members to lead and further.
+##### Community Participation
+They assist members of the community to have projects and deliverables that accurately reflect items in this private collection and serve, in different roles and capacities of their own will, as mentors, participants, and assistants of proposed projects that align with the platform leadership team's priorities. These capacities will be updated (deleted as well as elaborated) by members of the team as new members join in.
+
+_Deliverables able to submitted to review for the team_: work interaction models, chosen research method, analytical methods, experimental analysis results, click through prototypes, questionnaires, user requirement specifications, user cases, personas... [adjusted as necessary]
+
+_Deliverables submitted from the review team to submitters_: written feedback about submitted materials, signals of interest to either mentor, assist, or participate in a proposed project, small scale prototype studies to validate research and analytical methods, formal instructions and resources related to the domain of the study, written feedback on how to align proposals to the materials maintained in the Google Drive folder, critiques on the methods of submitted proposals
 
 _Collaborative Tools_: Figma, Slack, Google Drive, CoLab, UX component library (behavior patterns of users)...
 
 _Members_
 
 #### User Interface Group
-The User Interface Group focuses on the pages and screens of the Daemo Platform. They will conduct research to optimize the pages of the platform to match the work priorities for the users as well as designing the information path to assist users to achieve their tasks successfully. Results for platform studies are posted with the appropriate Github Issue thread with the research and analysis methods and final results from the related study. The Ux Group will inform the UI group with validated scenarios, whereas the task flows are their responsibility. They maintain the current style guide and the site's design language. With assistance from the Ux group, they will suggest further notifications and alerts to support users on the platform. This team will maintain a design pattern library from 3 competitive platforms on the Crowd Research Wiki.
 
-_Deliverables_: mock ups, design patterns, template layouts, internal reports and studies, provide written feedback to members on related proposals...
+##### General
+The User Interface Group focuses on the pages and screen flow of the Daemo Platform. If the UX group defines User Requirements, the UI Group optimizes the requirements with the interface and informs the Ux team of the practicality of the requirements. This group is responsible for the maintenance of the UI library and will be responsible to post major changes to the Daemo interface to the main branch of Github. For the Daemo community, this team will maintain a design pattern library from 3 competitive platforms on the Crowd Research Wiki, which will be maintained on a Google Drive folder that shares access with the UX team.
+##### Community Competitiveness
+The UI team will also be responsible for maintenance and reporting of model based competitive performance benchmarks between competitors such as predicted timings and workload. From these reports, they will suggest to the community studies for members to lead and further. For members in the community the UI group communicates with front end engineers regarding the feasibility of proposals and returns to proposal submitters feedback about their submission.
+##### Community Participation
+They assist members of the community to have projects and deliverables that accurately reflect items in this private collection and serve, in different roles and capacities of their own will, as mentors, participants, and assistants of proposed projects that align with the platform leadership team's priorities. These capacities will be updated (deleted as well as elaborated) by members of the team as new members join in.
 
-_Collaborative Tools_: Figma, Slack, Google Drive, CoLab, UI component library...
+_Deliverables able to submitted to review for the team_: mock ups, design patterns, template layouts, UI studies, A/B tests
+
+_Deliverables submitted from the review team to submitters_: provide written feedback to members on related proposals, mock ups with layout changes, corrections of priority proposals to fit current Daemo standards, feedback on UI studies and A/B testing methods, analytical methods and statistical interpretation...
 
 _Members_
 
